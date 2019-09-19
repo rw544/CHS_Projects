@@ -1,0 +1,136 @@
+﻿@page
+@model CHSYesWebApp.Pages.ServiceForms.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ServiceForm</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ServiceForm.ServiceDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ServiceForm.ServiceDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ServiceForm.HourOfService)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ServiceForm.HourOfService)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ServiceForm.ServiceDescription)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ServiceForm.ServiceDescription)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ServiceForm.RewardedForService)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ServiceForm.RewardedForService)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ServiceForm.StudentSignature)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ServiceForm.StudentSignature)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ServiceForm.OrganizationName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ServiceForm.OrganizationName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ServiceForm.OrganizationPhone)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ServiceForm.OrganizationPhone)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ServiceForm.OrganizationWebSite)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ServiceForm.OrganizationWebSite)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ServiceForm.OrganizationStreetAddress)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ServiceForm.OrganizationStreetAddress)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ServiceForm.SponsorName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ServiceForm.SponsorName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ServiceForm.SponsorEmail)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ServiceForm.SponsorEmail)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ServiceForm.ParentSignature)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ServiceForm.ParentSignature)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ServiceForm.Status)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ServiceForm.Status)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ServiceForm.OwnerID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ServiceForm.OwnerID)
+        </dd>
+    </dl>
+</div>
+@if (Model.ServiceForm.Status != ContactStatus.Approved)
+{
+    @if ((await AuthorizationService.AuthorizeAsync(
+    User, Model.ServiceForm, ServiceFormOperations.Approve)).Succeeded)
+    {
+        <form style="display:inline;" method="post">
+            <input type="hidden" name="id" value="@Model.ServiceForm.ServiceFormId" />
+            <input type="hidden" name="status" value="@ContactStatus.Approved" />
+            <button type="submit" class="btn btn-xs btn-success">Approve</button>
+        </form>
+    }
+}
+
+@if (Model.ServiceForm.Status != ContactStatus.Rejected)
+{
+   
+    @if ((await AuthorizationService.AuthorizeAsync(
+    User, Model.ServiceForm, ServiceFormOperations.Reject)).Succeeded)
+    {
+        <form style="display:inline;" method="post">
+            <input type="hidden" name="id" value="@Model.ServiceForm.ServiceFormId" />
+            <input type="hidden" name="status" value="@ContactStatus.Rejected" />
+            <button type="submit" class="btn btn-xs btn-success">Reject</button>
+        </form>
+    }
+}
+
+<div>
+    @if ((await AuthorizationService.AuthorizeAsync(
+        User, Model.ServiceForm,
+        ServiceFormOperations.Update)).Succeeded)
+    {
+        <a asp-page="./Edit" asp-route-id="@Model.ServiceForm.ServiceFormId">Edit</a>
+        <text> | </text>
+    }
+    <a asp-page="./Index">Back to List</a>
+</div>

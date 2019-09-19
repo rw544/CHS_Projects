@@ -1,0 +1,94 @@
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/bin/Debug/netcoreapp2.1/CHSYesWebApp.deps.json
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/bin/Debug/netcoreapp2.1/CHSYesWebApp.runtimeconfig.json
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/bin/Debug/netcoreapp2.1/CHSYesWebApp.runtimeconfig.dev.json
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/bin/Debug/netcoreapp2.1/CHSYesWebApp.dll
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/bin/Debug/netcoreapp2.1/CHSYesWebApp.pdb
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/bin/Debug/netcoreapp2.1/CHSYesWebApp.Views.dll
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/bin/Debug/netcoreapp2.1/CHSYesWebApp.Views.pdb
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.csproj.CoreCompileInputs.cache
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.RazorAssemblyInfo.cache
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.RazorAssemblyInfo.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.AssemblyInfoInputs.cache
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.AssemblyInfo.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.TagHelpers.input.cache
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.TagHelpers.output.cache
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.RazorCoreGenerate.cache
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/About.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Contact.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Error.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Index.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Privacy.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_Layout.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/_ViewImports.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/_ViewStart.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.RazorTargetAssemblyInfo.cache
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.RazorTargetAssemblyInfo.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.Views.pdb
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.dll
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.pdb
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.csproj.CopyComplete
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/Index.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Register.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/_ViewImports.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ViewImports.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ViewStart.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_LoginPartial.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/ServiceForms/Create.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/ServiceForms/Delete.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/ServiceForms/Details.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/ServiceForms/Edit.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/ServiceForms/Index.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.csprojAssemblyReference.cache
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/ChartByOrganization.g.cshtml.cs
+C:/Users/Ray/source/repos/IndependentStudy/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/ChartByYear.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/bin/Debug/netcoreapp2.1/CHSYesWebApp.deps.json
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/bin/Debug/netcoreapp2.1/CHSYesWebApp.runtimeconfig.json
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/bin/Debug/netcoreapp2.1/CHSYesWebApp.runtimeconfig.dev.json
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/bin/Debug/netcoreapp2.1/CHSYesWebApp.dll
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/bin/Debug/netcoreapp2.1/CHSYesWebApp.pdb
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/bin/Debug/netcoreapp2.1/CHSYesWebApp.Views.dll
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/bin/Debug/netcoreapp2.1/CHSYesWebApp.Views.pdb
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.csprojAssemblyReference.cache
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.csproj.CoreCompileInputs.cache
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.RazorAssemblyInfo.cache
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.RazorAssemblyInfo.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.AssemblyInfoInputs.cache
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.AssemblyInfo.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.TagHelpers.input.cache
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.TagHelpers.output.cache
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.RazorCoreGenerate.cache
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/Index.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/Register.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/Account/_ViewImports.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ViewImports.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ViewStart.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/About.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/ChartByOrganization.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/ChartByYear.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Contact.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Error.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Index.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Privacy.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/ServiceForms/Create.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/ServiceForms/Delete.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/ServiceForms/Details.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/ServiceForms/Edit.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/ServiceForms/Index.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_Layout.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_LoginPartial.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/_ViewImports.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/Razor/Pages/_ViewStart.g.cshtml.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.RazorTargetAssemblyInfo.cache
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.RazorTargetAssemblyInfo.cs
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.Views.pdb
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.dll
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.pdb
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/CHSYesWebApp/CHSYesWebApp/obj/Debug/netcoreapp2.1/CHSYesWebApp.csproj.CopyComplete

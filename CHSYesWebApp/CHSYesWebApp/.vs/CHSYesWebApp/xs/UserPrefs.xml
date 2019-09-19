@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B8E55A4E-38DD-44E4-BC0C-AD029260C55A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/ChartByOrganization.cshtml.cs">
+    <Files>
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Models/ServiceForm.cs" Line="50" Column="1" />
+      <File FileName="Program.cs" Line="59" Column="77" />
+      <File FileName="Pages/ChartByYerar.cshtml.cs" Line="98" Column="32" />
+      <File FileName="Pages/Privacy.cshtml" Line="7" Column="1" />
+      <File FileName="Pages/Error.cshtml" Line="24" Column="1" />
+      <File FileName="Pages/Contact.cshtml.cs" Line="19" Column="1" />
+      <File FileName="Pages/ChartByOrganization.cshtml.cs" Line="131" Column="6" />
+      <File FileName="Pages/ChartByYear.cshtml" Line="72" Column="27" />
+      <File FileName="Pages/Contact.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/Error.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Pages/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Pages/ChartByOrganization.cshtml" Line="68" Column="30" />
+      <File FileName="wwwroot/images/banner1.svg" Line="1" Column="1" />
+      <File FileName="wwwroot/images/banner2.svg" Line="1" Column="103" />
+      <File FileName="Pages/About.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Migrations/CHSYesWebAppContextModelSnapshot.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CHSYesWebApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

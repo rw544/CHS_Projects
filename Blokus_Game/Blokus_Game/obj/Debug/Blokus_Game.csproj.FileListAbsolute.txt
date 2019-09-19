@@ -1,0 +1,30 @@
+C:/Users/Ray/source/repos/Blokus_Game/Blokus_Game/bin/Debug/Blokus_Game.exe.config
+C:/Users/Ray/source/repos/Blokus_Game/Blokus_Game/bin/Debug/Blokus_Game.exe
+C:/Users/Ray/source/repos/Blokus_Game/Blokus_Game/bin/Debug/Blokus_Game.pdb
+C:/Users/Ray/source/repos/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.csprojAssemblyReference.cache
+C:/Users/Ray/source/repos/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.frmBlokUsGame.resources
+C:/Users/Ray/source/repos/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.Properties.Resources.resources
+C:/Users/Ray/source/repos/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.csproj.GenerateResource.cache
+C:/Users/Ray/source/repos/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.csproj.CoreCompileInputs.cache
+C:/Users/Ray/source/repos/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.exe
+C:/Users/Ray/source/repos/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.pdb
+//Mac/Home/Documents/Blokus_Game/Blokus_Game/bin/Debug/Blokus_Game.exe.config
+//Mac/Home/Documents/Blokus_Game/Blokus_Game/bin/Debug/Blokus_Game.exe
+//Mac/Home/Documents/Blokus_Game/Blokus_Game/bin/Debug/Blokus_Game.pdb
+//Mac/Home/Documents/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.csprojAssemblyReference.cache
+//Mac/Home/Documents/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.frmBlokUsGame.resources
+//Mac/Home/Documents/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.Properties.Resources.resources
+//Mac/Home/Documents/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.csproj.GenerateResource.cache
+//Mac/Home/Documents/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.csproj.CoreCompileInputs.cache
+//Mac/Home/Documents/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.exe
+//Mac/Home/Documents/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.pdb
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/Blokus_Game/Blokus_Game/bin/Debug/Blokus_Game.exe.config
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/Blokus_Game/Blokus_Game/bin/Debug/Blokus_Game.exe
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/Blokus_Game/Blokus_Game/bin/Debug/Blokus_Game.pdb
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.csprojAssemblyReference.cache
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.frmBlokUsGame.resources
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.Properties.Resources.resources
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.csproj.GenerateResource.cache
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.csproj.CoreCompileInputs.cache
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.exe
+/Users/rayanwali/Documents/Clements HS/Computer Science 4 Pre-AP/Blokus_Game/Blokus_Game/obj/Debug/Blokus_Game.pdb

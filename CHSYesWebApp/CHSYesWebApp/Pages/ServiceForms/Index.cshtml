@@ -1,0 +1,158 @@
+﻿@page
+@model CHSYesWebApp.Pages.ServiceForms.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+
+<form>
+    <p>
+        <select asp-for="ServiceOrganization" asp-items="Model.Organizaiton">
+            <option value="">All</option>
+        </select>
+        Service Organization: <input type="text" name="SearchString">
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceForm[0].ServiceDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceForm[0].HourOfService)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceForm[0].ServiceDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceForm[0].RewardedForService)
+            </th>
+            @*  
+             <th>
+                @Html.DisplayNameFor(model => model.ServiceForm[0].StudentSignature)
+            </th>
+            *@
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceForm[0].OrganizationName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceForm[0].OrganizationPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceForm[0].OrganizationWebSite)
+            </th>
+            @*
+            <th>
+                    @Html.DisplayNameFor(model => model.ServiceForm[0].OrganizationStreetAddress)
+            </th>
+            *@
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceForm[0].SponsorName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceForm[0].SponsorEmail)
+            </th>
+            @*
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceForm[0].ParentSignature) 
+            </th>
+            *@
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceForm[0].Status)
+            </th>
+            @*
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceForm[0].OwnerID) 
+            </th>
+            *@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.ServiceForm)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ServiceDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HourOfService)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ServiceDescription)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RewardedForService)
+                </td>
+        @*
+                <td>
+                    @Html.DisplayFor(modelItem => item.StudentSignature)
+                </td>
+ 
+         *@   
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrganizationName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrganizationPhone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrganizationWebSite)
+                </td>
+      @*
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrganizationStreetAddress)
+                </td>
+        *@
+                <td>
+                    @Html.DisplayFor(modelItem => item.SponsorName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SponsorEmail)
+                </td>
+      @*
+                <td>
+                    @Html.DisplayFor(modelItem => item.ParentSignature)
+                </td>
+      *@
+      
+          <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+      @*        <td>
+                    @Html.DisplayFor(modelItem => item.OwnerID)
+                </td>
+      *@
+                <td>
+                    @if ((await AuthorizationService.AuthorizeAsync(
+                   User, item,
+                   ServiceFormOperations.Update)).Succeeded)
+                    {
+                        <a asp-page="./Edit" asp-route-id="@item.ServiceFormId">Edit</a>
+                        <text> | </text>
+                    }
+
+                    <a asp-page="./Details" asp-route-id="@item.ServiceFormId">Details</a>
+
+                    @if ((await AuthorizationService.AuthorizeAsync(
+                    User, item,
+                    ServiceFormOperations.Delete)).Succeeded)
+                    {
+                        <text> | </text>
+                        <a asp-page="./Delete" asp-route-id="@item.ServiceFormId">Delete</a>
+                    }
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
